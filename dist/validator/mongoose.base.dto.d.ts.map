@@ -1,0 +1,1 @@
+{"version":3,"file":"mongoose.base.dto.d.ts","sourceRoot":"","sources":["../../src/validator/mongoose.base.dto.ts"],"names":[],"mappings":"AAEA,qBAAa,kBAAkB;IAK7B,KAAK,CAAC,EAAE,MAAM,CAAC;IAIf,IAAI,CAAC,EAAE,MAAM,CAAC;IAGd,IAAI,CAAC,EAAE,OAAO,CAAC;IAGf,KAAK,CAAC,EAAE,OAAO,CAAC;CACjB"}
